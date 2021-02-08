@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_main">@color/main</color>
+    <color name="color_second">@color/second</color>
+    <color name="color_accent">@color/accent</color>
+
+    <color name="main">#62929e</color>
+    <color name="second">#fdfdff</color>
+    <color name="accent">#546a7b</color>
+
+    <color name="darkish">#2d3142</color>
+    <color name="dark_greyish">#4f5d75</color>
+    <color name="light_greyish">#bfc0c0</color>
+</resources>

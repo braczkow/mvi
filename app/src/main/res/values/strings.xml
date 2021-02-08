@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WW-Exercise-01</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_hide">hide</string>
+    <string name="main_empty_list_body">You have just fetched an empty list!</string>
+    <string name="main_fail_body">Oooops, we have failed to download your cool images</string>
+    <string name="action_refresh">Refresh</string>
+</resources>
